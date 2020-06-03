@@ -41,7 +41,7 @@
                         title="Add tag"
                         :mask-closable="false"
                         :closable="false"
-                        >
+                >
                     <Input v-model="data.tagName" placeholder="Add tag name" />
 
                     <div slot="footer">
